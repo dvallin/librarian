@@ -1,0 +1,8 @@
+.idea/
+build/
+.gradle/
+gradle/
+coverage
+dist
+node_modules
+yarn-error.log
